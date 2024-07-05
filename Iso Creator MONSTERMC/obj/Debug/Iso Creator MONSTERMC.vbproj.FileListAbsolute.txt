@@ -1,0 +1,14 @@
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\bin\Debug\Iso Creator MONSTERMC.exe.config
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\bin\Debug\Iso Creator MONSTERMC.exe
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\bin\Debug\Iso Creator MONSTERMC.pdb
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\bin\Debug\Iso Creator MONSTERMC.xml
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\bin\Debug\Export.dll
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\bin\Debug\IsoCreator.dll
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\obj\Debug\Iso_Creator_MONSTERMC.Form1.resources
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\obj\Debug\Iso_Creator_MONSTERMC.Resources.resources
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\obj\Debug\Iso Creator MONSTERMC.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\obj\Debug\Iso Creator MONSTERMC.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\obj\Debug\Iso Creator MONSTERMC.vbproj.CopyComplete
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\obj\Debug\Iso Creator MONSTERMC.exe
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\obj\Debug\Iso Creator MONSTERMC.xml
+C:\Users\MONSTERMC\source\repos\Iso Creator MONSTERMC\Iso Creator MONSTERMC\obj\Debug\Iso Creator MONSTERMC.pdb
